@@ -1,6 +1,6 @@
 # Introduction and requirements
 
-In this sixth part of this series of tutorials we will rename, pack and (re)deploy our current digital edition’s application. If you have no intentions at all to ever create another digital editions application than the current one (which is called thun-demo), then you can go on and skip this part. If not, you will learn, which parts of which files you will have to modify to rename the package, the applications title and the visible URLs. 
+In this 6th part of this series of tutorials we will rename, pack and (re)deploy our current digital edition’s application. If you have no intentions at all to ever create another digital editions application than the current one (which is called thun-demo), then you can go on and skip this part. If not, you will learn, which parts of which files you will have to modify to rename the package, the applications title and the visible URLs. 
 
 This tutorial will use the code [build so far](../part-5-clean-up-the-code) and which you can download [here](https://github.com/csae8092/posts/raw/master/digital-edition-web-app/downloads/part-5/thun-demo-0.1.xar).
 
